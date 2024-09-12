@@ -1,6 +1,7 @@
 # Data-Mining
 
 1. Multiple Linear Regression
+   
 สร้างแบบจำลอง Multiple Linear Regression ทำนายค่าใช้จ่ายทางการแพทย์ที่เรียก
 เก็บโดยประกันสุขภาพ (Amount) โดยดูจากข้อมูล Age Sex BMI Children Smoker Region ของลูกค้า
 แต่ละคน หลังการผ่าน Data preprocessing ด้วยการเช็ก missing value และใช้ one-hot encoding
